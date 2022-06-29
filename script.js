@@ -212,3 +212,7 @@ addCart.addEventListener("click", function(e){
 		
 })
 
+imgThumbsShowcase.forEach(function(imgThumbShowcase){
+    const example = document.querySelector(".example")
+    example.innerText = imgThumbShowcase.src
+})
