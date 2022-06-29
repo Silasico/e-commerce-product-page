@@ -53,19 +53,19 @@ imgThumbsShowcase.forEach(function(imgThumbShowcase){
 		imgThumbShowcase.classList.add("active")
 		
 		
-		if(imgThumbShowcase.firstElementChild.src === `file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/ecommerce-product-page-main/images/image-product-1-thumbnail.jpg`) {
+		if(imgThumbShowcase.firstElementChild.src === `images/image-product-1-thumbnail.jpg`) {
 			pictureNo = 0
 			showPicture(productPreviewShowcase)
 		}
-		if(imgThumbShowcase.firstElementChild.src === `file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/ecommerce-product-page-main/images/image-product-2-thumbnail.jpg`) {
+		if(imgThumbShowcase.firstElementChild.src === `images/image-product-2-thumbnail.jpg`) {
 			pictureNo = 1
 			showPicture(productPreviewShowcase)
 		}
-		if(imgThumbShowcase.firstElementChild.src === `file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/ecommerce-product-page-main/images/image-product-3-thumbnail.jpg`) {
+		if(imgThumbShowcase.firstElementChild.src === `images/image-product-3-thumbnail.jpg`) {
 			pictureNo = 2
 			showPicture(productPreviewShowcase)
 		}
-		if(imgThumbShowcase.firstElementChild.src === `file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/ecommerce-product-page-main/images/image-product-4-thumbnail.jpg`) {
+		if(imgThumbShowcase.firstElementChild.src === `images/image-product-4-thumbnail.jpg`) {
 			pictureNo = 3
 			showPicture(productPreviewShowcase)
 		}
@@ -101,19 +101,19 @@ imgThumbs.forEach(function(imgThumb){
 		imgThumb.classList.add("active")
 		
 		
-		if(imgThumb.firstElementChild.src === `file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/ecommerce-product-page-main/images/image-product-1-thumbnail.jpg`) {
+		if(imgThumb.firstElementChild.src === `images/image-product-1-thumbnail.jpg`) {
 			pictureNo = 0
 			showPicture(previewProduct)
 		}
-		if(imgThumb.firstElementChild.src === `file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/ecommerce-product-page-main/images/image-product-2-thumbnail.jpg`) {
+		if(imgThumb.firstElementChild.src === `images/image-product-2-thumbnail.jpg`) {
 			pictureNo = 1
 			showPicture(previewProduct)
 		}
-		if(imgThumb.firstElementChild.src === `file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/ecommerce-product-page-main/images/image-product-3-thumbnail.jpg`) {
+		if(imgThumb.firstElementChild.src === `images/image-product-3-thumbnail.jpg`) {
 			pictureNo = 2
 			showPicture(previewProduct)
 		}
-		if(imgThumb.firstElementChild.src === `file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/ecommerce-product-page-main/images/image-product-4-thumbnail.jpg`) {
+		if(imgThumb.firstElementChild.src === `images/image-product-4-thumbnail.jpg`) {
 			pictureNo = 3
 			showPicture(previewProduct)
 		}
